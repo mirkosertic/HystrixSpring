@@ -1,1 +1,0 @@
-This example shows how to embedd Hystrix into existing Spring applications in a non invasive way, thanks to some AOP and load time weaving.
